@@ -1,12 +1,29 @@
-# React + Vite
+# DevMOVIES — Aplicação de Filmes e Séries com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição  
+DevMOVIES é um projeto desenvolvido durante meus estudos no DevClub. A aplicação foi criada para consolidar conhecimentos em React e consumo de APIs externas, oferecendo uma experiência moderna e fluida para pesquisa e navegação de filmes e séries.
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js para estruturação dos componentes  
 
-## Expanding the ESLint configuration
+- Axios para requisições HTTP à TMDb API  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React Router DOM para navegação entre páginas  
+
+- Styled-Components para estilização com CSS-in-JS  
+
+- React Icons para ícones da interface  
+
+- JavaScript (ES6+) e CSS3 para lógica e layout responsivo
+
+## Funcionalidades  
+
+- Página inicial com destaques de filmes e séries  
+
+- Abas separadas para navegação independente entre Filmes e Séries  
+
+- Página de detalhes com trailer, elenco e informações completas  
+
+- Visual moderno, responsivo e navegação intuitiva
+
